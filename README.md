@@ -113,7 +113,7 @@
 </a>
 </p>
 <div align="left">
-    <img src="https://github-profile-trophy.vercel.app?username=dragoss-ariton&theme=dracula&column=2&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /><br>
+    <img src="https://github-profile-trophy.vercel.app?username=dragoss-ariton&theme=dracula&column=2&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="100" alt="trophy graph"  /><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dragoss-ariton&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
     <img src="https://streak-stats.demolab.com?user=dragoss-ariton&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
