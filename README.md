@@ -101,8 +101,8 @@
   </a>
 
   <!-- Email -->
-  <a href="mailto:dragosariton2004@gmail.com">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="35" width="35"/>
-  </a>
+<a href="mailto:dragosariton2004@gmail.com">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="35" width="35" hspace="10"/>
+</a>
 </p>
 
