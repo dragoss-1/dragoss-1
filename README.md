@@ -112,7 +112,7 @@
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="35" width="35" hspace="10"/>
 </a>
 </p>
-<div align="left">
+<div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
     <img src="https://streak-stats.demolab.com?user=dragoss-ariton&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dragoss-ariton&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
