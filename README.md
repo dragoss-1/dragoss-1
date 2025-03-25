@@ -102,7 +102,7 @@
 
   <!-- Email -->
   <a href="mailto:dragosariton2004@gmail.com">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="30" width="40"/>
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="40" width="40"/>
   </a>
 </p>
 
