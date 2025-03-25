@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dragos</h1>
 <h3 align="center">Desenvolvedor de software com experiência em diversas tecnologias, à procura da melhoria contínua e das melhores práticas para desenvolver soluções de qualidade.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dragoss-ariton" alt="dragoss-ariton" /></a> </p>
-
 - 📫 How to reach me **dragosariton2004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
