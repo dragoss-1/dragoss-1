@@ -1,10 +1,14 @@
-<h1 align="center">Hi 👋, I'm Dragos</h1>
-<h4 align="center">Desenvolvedor de software com experiência em diversas tecnologias, à procura da melhoria contínua e das melhores práticas para desenvolver soluções de qualidade.</h4>
+<h1 align="left">Hey 👋 What's up?</h1>
+<p align="left">My name is Dragos and I'm a full-stack programmer, from 🇵🇹 / 🇲🇩</p>
 
-<h3 align="left">Visitors:</h3>
-<img src="https://profile-counter.glitch.me/{dragosss-ariton}/count.svg" alt="madushadhanushka :: Visitor's Count" />
+<h2 align="left">About me</h2>
 
-<h3 align="left">Languages and Tools:</h3>
+###
+
+<p align="left">✨ Developing code since 2019<br>📚 I'm currently learning more about javascript<br>🎯 Goals: Have a lot of good projects 🤠</p>
+
+
+<h3 align="left">I code with:</h3>
 <p align="left">
   <!-- Bash -->
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
@@ -108,4 +112,9 @@
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="35" width="35" hspace="10"/>
 </a>
 </p>
-
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=dragoss-ariton&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dragoss-ariton&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=dragoss-ariton&theme=matrix&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dragoss-ariton&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
