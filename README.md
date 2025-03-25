@@ -4,7 +4,7 @@
 <h2 align="left">About me</h2>
 <p align="left">✨ Developing code since 2019<br>📚 I'm currently learning more about javascript<br>🎯 Goals: Have a lot of good projects 🤠</p>
 
-<h3 align="left">I code with:</h3>
+<h2 align="left">I code with:</h2>
 <p align="left">
   <!-- Bash -->
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
