@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dragos</h1>
 <h4 align="center">Desenvolvedor de software com experiência em diversas tecnologias, à procura da melhoria contínua e das melhores práticas para desenvolver soluções de qualidade.</h4>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=differ)](https://github.com/madushadhanushka/differ)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=simple-sqlite)](https://github.com/madushadhanushka/simple-sqlite)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
