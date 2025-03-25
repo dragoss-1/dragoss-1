@@ -2,11 +2,8 @@
 <p align="left">My name is Dragos and I'm a full-stack programmer, from portugal and moldova</p>
 
 <h2 align="left">About me</h2>
-
 ###
-
 <p align="left">✨ Developing code since 2019<br>📚 I'm currently learning more about javascript<br>🎯 Goals: Have a lot of good projects 🤠</p>
-
 
 <h3 align="left">I code with:</h3>
 <p align="left">
