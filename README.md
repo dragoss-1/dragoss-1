@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dragos</h1>
 <h4 align="center">Desenvolvedor de software com experiência em diversas tecnologias, à procura da melhoria contínua e das melhores práticas para desenvolver soluções de qualidade.</h4>
 
-- 📫 How to reach me **dragosariton2004@gmail.com**
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- Bash -->
@@ -90,6 +88,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
 </p>
+- 📫 How to reach me **dragosariton2004@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dragosariton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dragosariton" height="30" width="40" /></a>
