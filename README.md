@@ -88,9 +88,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
 </p>
-- 📫 How to reach me **dragosariton2004@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dragosariton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dragosariton" height="30" width="40" /></a>
 <a href="https://instagram.com/dragoss__1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dragoss__1" height="30" width="40" /></a>
+- 📫 How to reach me **dragosariton2004@gmail.com**
 </p>
