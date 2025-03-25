@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dragos</h1>
 <h4 align="center">Desenvolvedor de software com experiência em diversas tecnologias, à procura da melhoria contínua e das melhores práticas para desenvolver soluções de qualidade.</h4>
 
+<h3 align="left">Visitors:</h3>
 <img src="https://profile-counter.glitch.me/{dragosss-ariton}/count.svg" alt="madushadhanushka :: Visitor's Count" />
 
 <h3 align="left">Languages and Tools:</h3>
