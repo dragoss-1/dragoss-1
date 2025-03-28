@@ -112,4 +112,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragoss-1&layout=compact&theme=radical)
 
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=dragoss-1&theme=react-dark)
+
 </p>
