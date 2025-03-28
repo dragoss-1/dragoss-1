@@ -108,6 +108,6 @@
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="35" width="35" hspace="10"/>
 </a>
 
-![Dragos's GitHub stats](https://github-readme-stats.vercel.app/api?username=DragosAriton&show_icons=true&theme=radical)
+![Dragos's GitHub stats](https://github-readme-stats.vercel.app/api?username=dragoss-1&show_icons=true&theme=radical)
 
 </p>
