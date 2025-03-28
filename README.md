@@ -111,9 +111,6 @@
 ### 🚀 **Top Languages**
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragoss-1&layout=compact&theme=radical)
 
-### 🔥 **GitHub Stats**
-![Dragos's GitHub stats](https://github-readme-stats.vercel.app/api?username=dragoss-1&show_icons=true&theme=radical)
-
 ### ✨ **Favorite Technologies**
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
