@@ -108,11 +108,11 @@
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="35" width="35" hspace="10"/>
 </a>
 
-### 🔥 **GitHub Stats**
-![Dragos's GitHub stats](https://github-readme-stats.vercel.app/api?username=dragoss-1&show_icons=true&theme=radical)
-
 ### 🚀 **Top Languages**
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragoss-1&layout=compact&theme=radical)
+
+### 🔥 **GitHub Stats**
+![Dragos's GitHub stats](https://github-readme-stats.vercel.app/api?username=dragoss-1&show_icons=true&theme=radical)
 
 ### ✨ **Favorite Technologies**
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
