@@ -112,6 +112,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragoss-1&layout=compact&theme=radical)
 
+### ✨ **Favorite Technologies**
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/-Firebase-ffca28?logo=firebase&logoColor=white&style=for-the-badge)
