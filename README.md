@@ -6,10 +6,11 @@
 
 <h2 align="left">I code with:</h2>
 <p align="left">
-  <!-- Bash -->
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" alt="bash" width="40" height="40"/>
-  </a>
+<!-- Bash -->
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Bash_Logo_Colored.svg" alt="bash" width="40" height="40"/>
+</a>
+
   
   <!-- React -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
